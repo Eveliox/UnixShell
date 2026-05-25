@@ -191,4 +191,4 @@ Things to experiment with:
 
 All of that comes next.
 
-→ **Next:** [Phase 2 — Tokenizer](phase-02-parsing.md) *(coming up)*
+→ **Next:** [Phase 2 — Tokenizer](phase-02-parsing.md)
