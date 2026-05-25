@@ -1,6 +1,6 @@
 # MiniShell++
 
-A lightweight Unix-style shell written in C++, built phase-by-phase to learn POSIX systems programming.
+A lightweight Unix-style shell written in C++
 
 ## Build & run
 
